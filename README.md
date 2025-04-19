@@ -1,16 +1,14 @@
-# resume_generator
+# Flutter Resume Generator
 
-A new Flutter project.
+A Flutter app that fetches resume data from an Express.js API and allows users to customize font size, font color, and background.
 
-## Getting Started
+## Features:
+- Fetch resume details from API.
+- Customize text font size.
+- Change font and background colors.
+- User-friendly interface.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run:
+1. Clone this repo.
+2. Run `flutter pub get`.
+3. Launch using `flutter run`.
